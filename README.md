@@ -14,7 +14,7 @@ My mission is to become a skilled programmer and the first Turkish woman astrona
 
 ### 💻 Tech Stack
 <span>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -33,7 +33,7 @@ I'm open to:
 - 🛠 Collaborations on **mission-driven**, innovative products.
 
 📫 Feel free to reach out!
-[LinkedIn] (https://www.linkedin.com/in/idil-sincer-4213941b2/)| [Email] (idilo.sincero@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/idil-sincer-4213941b2/)| [Email](idilo.sincero@gmail.com) 
 
 ---
 
